@@ -8,7 +8,7 @@
   <!--- - web development (python, js, react) --->
   <!--- - dev ops: docker, kubernetes --->
 <!--- - I’m looking to collaborate on --->
-<!--- - 📫 How to reach me: kushagra.singh@gmail.com --->
+- 📫 How to reach me: kushagra.singh@gmail.com
 
 <!---
 k-s-dev/k-s-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
