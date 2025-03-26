@@ -2,8 +2,8 @@
 - Some projects
   - [shunya-acad](https://shunya-acad.web.app/)
   - [Introduction to Programming using Python (itppy)](https://itppy-book.web.app/)
-  - [todo app api with demo (Django)](https://ksdev.pythonanywhere.com/)
-- I’m interested in remote freelance full stack web dev projects with focus on backend  
+  - [Todo app](https://github.com/k-s-dev/todo-demo-frontend)
+- I’m interested in remote freelance full stack web dev projects
 <!--- - I’m currently learning --->
   <!--- - web development (python, js, react) --->
   <!--- - dev ops: docker, kubernetes --->
