@@ -3,6 +3,7 @@
   - [shunya-acad](https://shunya-acad.web.app/)
   - [Introduction to Programming using Python (itppy)](https://itppy-book.web.app/)
   - [Todo app](https://github.com/k-s-dev/todo-demo-frontend)
+  - [Nexjs starter templates](https://github.com/k-s-dev/nextjs-starter-templates)
 - I’m interested in remote freelance full stack web dev projects
 <!--- - I’m currently learning --->
   <!--- - web development (python, js, react) --->
