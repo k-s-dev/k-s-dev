@@ -1,12 +1,11 @@
-- Hi, I’m @k-s-dev
-- Some projects
+- Projects
+  - **Nextjs demo**: [repo](https://github.com/k-s-dev/nextjs-demo), [website](https://nextjs-demo-ivory-eta.vercel.app/)
+  - [Starter templates](https://github.com/k-s-dev/starter-templates)  
   - [shunya-acad](https://shunya-acad.web.app/)
   - [Introduction to Programming using Python (itppy)](https://itppy-book.web.app/)
-  - [Todo app](https://github.com/k-s-dev/todo-demo-frontend)
-  - [Nexjs starter templates](https://github.com/k-s-dev/nextjs-starter-templates)
-- I’m interested in remote freelance full stack web dev projects
-<!--- - I’m currently learning --->
-  <!--- - web development (python, js, react) --->
+- I’m interested in remote freelance web dev projects
+- I’m currently learning
+  - web development: js, ts, node, express, react, nextjs
   <!--- - dev ops: docker, kubernetes --->
 <!--- - I’m looking to collaborate on --->
 - 📫 How to reach me: kushagra.singh@gmail.com
