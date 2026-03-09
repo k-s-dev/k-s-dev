@@ -1,5 +1,6 @@
 - Projects
-  - **Nextjs demo**: [repo](https://github.com/k-s-dev/nextjs-demo), [website](https://nextjs-demo-ivory-eta.vercel.app/)
+  - **Nextjs PERN demo**: [repo](https://github.com/k-s-dev/pern-demo-frontend), [website](https://pern-demo-frontend.vercel.app/)
+  - **Nextjs monolith demo**: [repo](https://github.com/k-s-dev/nextjs-demo), [website](https://nextjs-demo-ivory-eta.vercel.app/)
   - [Starter templates](https://github.com/k-s-dev/starter-templates)  
   - [shunya-acad](https://shunya-acad.web.app/)
   - [Introduction to Programming using Python (itppy)](https://itppy-book.web.app/)
