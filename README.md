@@ -40,5 +40,3 @@ solutions to some fundamental web development features.
   - does not expose backend api server
   - cache management is implemented using nextjs cache
 - state management using latest context api, which eliminates external dependencies
-- next steps 
-  - learning and migrating to latest cache components based prerendering in nextjs
