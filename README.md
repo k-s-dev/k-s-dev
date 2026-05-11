@@ -1,4 +1,5 @@
 - Projects
+  - **Real Estate Rental Hub**: [preview](https://rerh-git-preview-k-s-devs-projects.vercel.app/)
   - **Nextjs PERN demo**: [repo](https://github.com/k-s-dev/pern-demo-frontend), [website](https://pern-demo-frontend.vercel.app/)
   - **Nextjs monolith demo**: [repo](https://github.com/k-s-dev/nextjs-demo), [website](https://nextjs-demo-ivory-eta.vercel.app/)
   - [Starter templates](https://github.com/k-s-dev/starter-templates)  
