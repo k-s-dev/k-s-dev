@@ -19,13 +19,9 @@ You can click the Preview link to take a look at your changes.
 
 Hello, I am a Chemical Engineer from Indian Institute of Technology Bombay (IIT-B), 2008 batch.
 
-I have worked for ~ 10y in capital markets risk management across various investment banks 
-(lots of data, sql, system/process design, derivatives pricing). 
-I was the architect of conceptual and process design of enterprise stress testing framework at Credit Suisse.
+I have worked for ~ 10y in capital markets risk management across various investment banks (lots of data, sql, system/process design, derivatives pricing). I was one of the main contributors to design and architecture of Enterprise Stress Testing Framework at Credit Suisse.
 
-
-I am currently learning theory and doing practicals in computer science 
-and more specifically in web development (python, js, ts, react, nextjs, nodejs, expressjs).
+I am currently learning theory and doing practicals in computer science and more specifically in web development (python, js, ts, react, nextjs, nodejs, expressjs).
 
 The latest [project](https://github.com/k-s-dev/pern-demo-frontend) with Nextjs/Express on my github profile show case 
 solutions to some fundamental web development features.
